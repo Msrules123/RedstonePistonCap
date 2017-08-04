@@ -1,0 +1,7 @@
+prefix: '&6[&8RPC&6] &7'
+no-permission: '&4You don''t have permission to use this command.'
+piston-cap-changed: 'You changed the piston cap to {cap}.'
+redstone-disabled: 'Redstone is disabled if you have more than {cap} pistons in a chunk.'
+chunk-is-loading: 'Loading data from chunk... Piston placing and breaking is disabled for a second.'
+pistons-remaining: '{amount} more piston(s) can be placed in this chunk before redstone is disabled.'
+pistons-over: '{amount} more piston(s) need to be removed for redstone to be enabled.'

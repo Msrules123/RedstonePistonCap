@@ -1,0 +1,7 @@
+name: RedstonePistonCap
+version: 1.0.0
+author: Msrules123
+main: me.msrules123.redstonepistoncap.RedstonePistonCap
+commands:
+  rpcchangecap:
+    usage: '&4/<command> [new piston cap]'

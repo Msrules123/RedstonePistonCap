@@ -1,0 +1,1 @@
+A small plugin created at the request of LemonCloud as a demonstration of competence developing plugins for Spigot.
